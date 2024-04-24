@@ -66,8 +66,8 @@ const CONFIG = {
       title_1: 'FinalCutPro',
       img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
       color_1: '#ffffff',
-      title_2: 'obsidian',
-      img_2: 'https://photos.writedream.cn/2024/04/24/e5cee4f899883022e48b8b71843a4c543ecd23aa.svg',
+      title_2: 'wolai',
+      img_2: 'https://photos.writedream.cn/2024/04/24/wolai_icon.svg',
       color_2: '#ffffff'
     },
     {
